@@ -1,7 +1,7 @@
 // NPM Packages needed for this application
 const fs = require('fs');
 const inquirer = require('inquirer');
-const tests = require('jest');
+const jest = require('jest');
 
 // Import module created in generateMarkdown.js project to generate the README template
 const generateLogo= require('./generateSVG');
@@ -43,7 +43,7 @@ inquirer
 
 .then((answers) => {
  const logo = generateLogo (answers)
-    // // Write the answers to the README.md
+    // // Write the answers to the logo.svg
     fs.writeFile('logo.svg', logo, (err) =>{
         // gives error message if applicable otherwise give message that it worked
     if (err) {

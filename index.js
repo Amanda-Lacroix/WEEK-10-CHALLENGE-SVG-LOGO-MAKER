@@ -3,10 +3,10 @@ const fs = require('fs');
 const inquirer = require('inquirer');
 
 
-// Import module created in generateMarkdown.js project to generate the README template
-const generateLogo= require('./generateSVG');
+// Import module created in generateSVG project to generate the logo
+const generateLogo= require('./lib/generateSVG');
 
-// Array of questions for user input into the README.md
+// Array of questions for user input to render the logo
 inquirer
 .prompt ([
     {

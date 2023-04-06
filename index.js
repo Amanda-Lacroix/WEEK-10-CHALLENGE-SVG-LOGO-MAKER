@@ -1,7 +1,7 @@
 // NPM Packages needed for this application
 const fs = require('fs');
 const inquirer = require('inquirer');
-const jest = require('jest');
+
 
 // Import module created in generateMarkdown.js project to generate the README template
 const generateLogo= require('./generateSVG');

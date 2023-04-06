@@ -7,6 +7,8 @@
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Walkthrough](#walkthrough)
+  - [Questions](#questions)
   - [Credits](#credits)
   - [License](#license)
 
@@ -20,9 +22,13 @@
   ## Usage
   This app is used to generate a SVG logo based on user user inputs.
 
+  ## Walkthrough and Screenshot (Logo Example)
+  
+
   ## Questions
-  Amanda-Lacroix
+  Amanda Lacroix
   amanda_lacroix@hotmail.com
+  REPO: https://github.com/Amanda-Lacroix/WEEK-10-CHALLENGE-SVG-LOGO-MAKER
 
   ## Credits
   https://github.com/SBoudrias/Inquirer.js

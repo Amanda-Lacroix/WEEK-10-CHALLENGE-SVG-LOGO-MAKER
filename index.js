@@ -12,8 +12,13 @@ inquirer
     {
         name: `text`,
         type: `input`,
-        message: "Please enter 3 characters:"
-    
+        message: "Please enter 3 characters:",
+        validate: function (input){
+            if (input.length === 3)
+            return true;
+            else 
+            return "Input must be exactly 3 characters, please try again"
+        }
     },
 
     {

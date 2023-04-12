@@ -1,0 +1,4 @@
+<svg width="100" height="100">
+            <polygon points="50 10, 10 90, 90 90" fill="#Ff007f" />
+            <text x="50" y="60" font-size="20" fill="purple" text-anchor="middle" alignment-baseline="middle" textLength="3">XxX</text>
+          </svg>

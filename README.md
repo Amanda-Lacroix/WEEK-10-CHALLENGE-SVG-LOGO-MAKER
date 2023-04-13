@@ -22,18 +22,22 @@
   ## Usage
   This app is used to generate a SVG logo based on user user inputs.
 
-  ## Walkthrough and Screenshot (Logo Example)
-  
+  ## Walkthrough 
+  https://drive.google.com/file/d/10Xkz3NncTUdDjSsmlJOCEc0ev7UaZH_b/view
+
+  ## Example of a Generated Logo
+ 
+   ![Circle Logo](examples/generatedCircleEx.svg)
 
   ## Questions
-  Amanda Lacroix
-  amanda_lacroix@hotmail.com
+  CONTACT: Amanda Lacroix
+  EMAIL: amanda_lacroix@hotmail.com
   REPO: https://github.com/Amanda-Lacroix/WEEK-10-CHALLENGE-SVG-LOGO-MAKER
 
   ## Credits
-  https://github.com/SBoudrias/Inquirer.js
-  https://jestjs.io/
-  Starter code provided by: https://git.bootcampcontent.com/new-brunswick/UNB-VIRT-FSF-PT-01-2023-U-LOLC
+ - https://github.com/SBoudrias/Inquirer.js
+ - https://jestjs.io/
+ - Starter code provided by: https://git.bootcampcontent.com/new-brunswick/UNB-VIRT-FSF-PT-01-2023-U-LOLC
  
 
   ## License
